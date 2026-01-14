@@ -1,2 +1,2 @@
 # AAPI
-Alert API Server
+Air Alert API Server in Ukraine
